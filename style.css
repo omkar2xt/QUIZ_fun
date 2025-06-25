@@ -296,7 +296,7 @@ main {
   max-width: 500px;
   margin: 0 auto;
   padding: 16px;
-  background: #fff;
+
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
@@ -338,9 +338,7 @@ button {
   transition: background 0.2s;
 }
 
-button:active {
-  background: #d0d0d0;
-}
+
 
 .logout-btn {
   position: absolute;

@@ -289,7 +289,7 @@ body, html {
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
-  background: #f9f9f9;
+  
 }
 
 main {
@@ -334,7 +334,7 @@ button {
   padding: 10px;
   border-radius: 8px;
   border: none;
-  background: #e0e0e0;
+ 
   transition: background 0.2s;
 }
 
